@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="gradGallery 5" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:1" />
+                    </linearGradient>
+                </defs>
+                <rect width="100%" height="100%" fill="url(#gradGallery 5)" />
+                <circle cx="541.6894309512385" cy="596.8410764846607" r="111.48941286817188" fill="#5eead4" opacity="0.1" filter="blur(20px)" />
+                <circle cx="653.057737353135" cy="384.9833188072089" r="91.6680826841336" fill="#b026ff" opacity="0.1" filter="blur(20px)" />
+                <line x1="0" y1="384.49783927596417" x2="800" y2="325.0084351890241" stroke="#5eead4" stroke-width="2" opacity="0.2" />
+                <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="48" fill="white" font-weight="bold" opacity="0.1">Gallery 5</text>
+            </svg>

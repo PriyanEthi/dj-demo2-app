@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="gradProfile" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#b026ff;stop-opacity:1" />
+                    </linearGradient>
+                </defs>
+                <rect width="100%" height="100%" fill="#050505" />
+                <circle cx="400" cy="300" r="200" fill="url(#gradProfile)" opacity="0.2" />
+                <path d="M400 200 C 450 200 480 250 480 300 C 480 380 400 450 400 450 C 400 450 320 380 320 300 C 320 250 350 200 400 200" fill="#5eead4" opacity="0.1" />
+                <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="40" fill="#5eead4" font-weight="bold" letter-spacing="4">DJ NOVA</text>
+                <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="120" fill="none" stroke="#f472b6" stroke-width="2" opacity="0.3">BEATS</text>
+            </svg>

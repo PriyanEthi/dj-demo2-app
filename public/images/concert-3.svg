@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="gradConcert 3" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:1" />
+                    </linearGradient>
+                </defs>
+                <rect width="100%" height="100%" fill="url(#gradConcert 3)" />
+                <circle cx="236.28867628967996" cy="514.6205156094956" r="98.83246333558004" fill="#b026ff" opacity="0.1" filter="blur(20px)" />
+                <circle cx="453.78324674257124" cy="239.04079472441393" r="64.74199078319928" fill="#f472b6" opacity="0.1" filter="blur(20px)" />
+                <line x1="0" y1="538.0172715898246" x2="800" y2="162.2549428718276" stroke="#b026ff" stroke-width="2" opacity="0.2" />
+                <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="48" fill="white" font-weight="bold" opacity="0.1">Concert 3</text>
+            </svg>
