@@ -16,7 +16,7 @@ export default function Hero() {
             {/* Background Image & Gradient */}
             <motion.div style={{ y, opacity }} className="absolute inset-0 z-0">
                 <img
-                    src="/images/hero-bg.jpg"
+                    src={`${import.meta.env.BASE_URL}images/hero-bg.jpg`}
                     alt="Concert Crowd"
                     className="w-full h-full object-cover opacity-60"
                 />

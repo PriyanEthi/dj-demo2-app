@@ -9,7 +9,7 @@ const concerts = [
         date: "MAR 15",
         city: "Miami, FL",
         venue: "Ultra Music Festival",
-        image: "/images/concert-1.jpg",
+        image: `${import.meta.env.BASE_URL}images/concert-1.jpg`,
         status: "Selling Fast"
     },
     {
@@ -17,7 +17,7 @@ const concerts = [
         date: "APR 02",
         city: "Berlin, DE",
         venue: "Berghain",
-        image: "/images/concert-2.jpg",
+        image: `${import.meta.env.BASE_URL}images/concert-2.jpg`,
         status: "Sold Out"
     },
     {
@@ -25,7 +25,7 @@ const concerts = [
         date: "MAY 20",
         city: "Las Vegas, NV",
         venue: "EDC Las Vegas",
-        image: "/images/concert-3.jpg",
+        image: `${import.meta.env.BASE_URL}images/concert-3.jpg`,
         status: "Available"
     },
     {
@@ -33,7 +33,7 @@ const concerts = [
         date: "JUN 10",
         city: "Ibiza, ES",
         venue: "Amnesia",
-        image: "/images/concert-4.jpg",
+        image: `${import.meta.env.BASE_URL}images/concert-4.jpg`,
         status: "Selling Fast"
     },
     {
@@ -41,7 +41,7 @@ const concerts = [
         date: "JUL 05",
         city: "Boom, BE",
         venue: "Tomorrowland",
-        image: "/images/concert-5.jpg",
+        image: `${import.meta.env.BASE_URL}images/concert-5.jpg`,
         status: "Waitlist"
     },
     {
@@ -49,7 +49,7 @@ const concerts = [
         date: "AUG 18",
         city: "Tokyo, JP",
         venue: "Womb",
-        image: "/images/concert-6.jpg",
+        image: `${import.meta.env.BASE_URL}images/concert-6.jpg`,
         status: "Available"
     }
 ];

@@ -7,7 +7,7 @@ const galleryImages = [
         title: "Ultra Music Festival",
         location: "Miami",
         year: "2025",
-        url: "/images/gallery-1.jpg",
+        url: `${import.meta.env.BASE_URL}images/gallery-1.jpg`,
         span: "col-span-1 md:col-span-2 row-span-2"
     },
     {
@@ -15,7 +15,7 @@ const galleryImages = [
         title: "Tomorrowland",
         location: "Belgium",
         year: "2024",
-        url: "/images/gallery-2.jpg",
+        url: `${import.meta.env.BASE_URL}images/gallery-2.jpg`,
         span: "col-span-1"
     },
     {
@@ -23,7 +23,7 @@ const galleryImages = [
         title: "EDC Las Vegas",
         location: "Las Vegas",
         year: "2024",
-        url: "/images/gallery-3.jpg",
+        url: `${import.meta.env.BASE_URL}images/gallery-3.jpg`,
         span: "col-span-1"
     },
     {
@@ -31,7 +31,7 @@ const galleryImages = [
         title: "Creamfields",
         location: "UK",
         year: "2023",
-        url: "/images/gallery-4.jpg",
+        url: `${import.meta.env.BASE_URL}images/gallery-4.jpg`,
         span: "col-span-1 md:col-span-2"
     },
     {
@@ -39,7 +39,7 @@ const galleryImages = [
         title: "Coachella",
         location: "California",
         year: "2023",
-        url: "/images/gallery-5.jpg",
+        url: `${import.meta.env.BASE_URL}images/gallery-5.jpg`,
         span: "col-span-1"
     }
 ];

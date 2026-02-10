@@ -28,7 +28,7 @@ export default function About() {
                     <div className="relative group">
                         <div className="absolute -inset-4 bg-gradient-to-r from-neon-purple to-neon-blue opacity-30 blur-lg transition duration-500 group-hover:opacity-100" />
                         <img
-                            src="/images/profile.jpg"
+                            src={`${import.meta.env.BASE_URL}images/profile.jpg`}
                             alt="DJ Profile"
                             className="relative rounded-2xl w-full h-[600px] object-cover grayscale group-hover:grayscale-0 transition-all duration-500 shadow-2xl shadow-neon-purple/20"
                         />
